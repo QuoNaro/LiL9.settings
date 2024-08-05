@@ -19,5 +19,5 @@
 После этого нужно зайти в Swiftkey и настроить на главном экране. Потом начать настройку клавиатуры на втором экране. На этом этапе нужно перезагрузить машину. После включения автомобиля открываем Swiftkey на втором экране и завершаем настройку.
 ### Как выполняется перезагрузка 
 
-<image src="https://githubraw.com/QuoNaro/LiL9.settings/main/img/restart.jpg" alt="Перезагрузка">
+<image src="https://raw.githubusercontent.com/QuoNaro/LiL9.settings/main/img/restart.jpg" alt="Перезагрузка">
 
